@@ -3,4 +3,42 @@ div {
   width: 65px;
   height: 65px;
   background-clip: content-box;
+  border: black, solid;
+  margin: 25px;
+  border-style: solid;
+  border-color: black;
+}
+#box-1 {
+  background-color: red;
+  width: 65px;
+  height: 65px;
+  background-clip: content-box;
+  padding: 10px;
+}
+#box-2 {
+  background-color: red;
+  width: 65px;
+  height: 65px;
+  background-clip: content-box; 
+  padding: 30px 60px 
+}
+#box-3 {
+  background-color: red;
+  width: 65px;
+  height: 65px;
+  background-clip: content-box; 
+  padding-top: 13px;
+  padding-right: 13px;
+  padding-bottom: 35px;
+  padding-left: 13px;
+}
+#box-4 {
+  background-color: red;
+  width: 65px;
+  height: 65px;
+  background-clip: content-box;
+  padding-top: 6px;
+  padding-right: 125px;
+  padding-bottom: 35px;
+  padding-left: 200px; 
 }
